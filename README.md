@@ -1,6 +1,6 @@
 # ICT Infrastructure Analysis Noteboks 
 
-##Notebooks used for ITU geospatial analysis Workshops and on-line training
+## Notebooks used for ITU geospatial analysis Workshops and on-line training
 
 Geospatial analysis using ICT infrastructure data and related data for solving connectivity barriers to hampering access to digital technologies to localities, public building (e.g. schools, health centers,), refugee camps and any other points of interest when connectivity analysis is needed. 
 
